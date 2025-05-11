@@ -1,6 +1,8 @@
-# Used for following stacks
+## Common Utils
 
-  - React
-  - Nextjs
-  - Tailwind
-  - Shadcn
+### Used with following stacks
+
+- React
+- Nextjs
+- Tailwind
+- Shadcn
