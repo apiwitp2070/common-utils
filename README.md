@@ -8,3 +8,7 @@
 - Shadcn
 - React Hook Form
 - Payload CMS (Lexical output)
+
+### Others
+
+- Gitlab
