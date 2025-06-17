@@ -6,3 +6,5 @@
 - Nextjs
 - Tailwind
 - Shadcn
+- React Hook Form
+- Payload CMS (Lexical output)
